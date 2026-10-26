@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Gustavo Rodrigues Fernandes 👋
 
-<!--
-**gugafastdev/gugafastdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | BI & Python Automation | Computer Science Graduate
 
-Here are some ideas to get you started:
+I'm a Brazil-based Systems Analyst with approximately two years of experience working with data analysis, KPI monitoring, reporting, and process automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on turning repetitive tasks into efficient workflows and transforming business data into actionable insights.
+
+### 🚀 What I Do
+
+- **Data Analysis:** KPI monitoring, business reporting, and operational insights.
+- **Python Automation:** Reducing manual work through automated processes.
+- **Business Intelligence:** Working with Power BI and performance indicators.
+- **SQL:** Foundational querying and data manipulation skills.
+- **Process Improvement:** Building practical solutions to improve productivity.
+
+### 📈 Professional Impact
+
+Reduced a recurring reporting workflow from **60 minutes to 10 minutes**, saving approximately **83% of execution time** and creating more time for deeper KPI analysis.
+
+### 🛠️ Technical Skills
+
+**Programming & Data:** Python, SQL (Basic)
+
+**Analytics & BI:** Power BI, KPI Analysis, Reporting
+
+**Focus Areas:** Workflow Automation, Business Intelligence, Data Analysis
+
+### 🎓 Education
+
+- Computer Science — Estácio
+- Postgraduate Studies in Data Analysis — Estácio
+
+### 🌎 Professional Interests
+
+I'm interested in international opportunities involving data analytics, business intelligence, Python automation, and practical solutions to business challenges.
+
+### 📂 Portfolio
+
+I'm building a portfolio of data analysis and automation projects using public or synthetic datasets.
+
+### 🤝 Connect
+
+[GitHub](https://github.com/gugafastdev)
+
+*Always learning. Always improving.*
